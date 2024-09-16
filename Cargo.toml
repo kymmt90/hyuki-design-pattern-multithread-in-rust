@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
-members = [ "balking","guarded-suspension", "immutable", "producer-consumer", "read-write-lock", "single-threaded-execution"]
+members = [ "balking","guarded-suspension", "immutable", "producer-consumer", "read-write-lock", "single-threaded-execution", "thread-per-message"]
 
 [workspace.dependencies]
 rand = "0.8.5"
