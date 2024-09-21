@@ -12,3 +12,6 @@ Cargo.lock
 
 # Created by the Balking program
 data.txt
+
+# Created by the Thread-Specific Storage program
+*-log.txt
